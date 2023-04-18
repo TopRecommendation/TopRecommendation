@@ -8,7 +8,6 @@
   background-clip: text;
   animation: gradient-animation 9s infinite;
 }
-
 @keyframes gradient-animation {
   0% {
     background-position: 0% 0%;
